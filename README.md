@@ -14,10 +14,10 @@ php设计模式学习
                 <p>一般采用静态方法，给方法传递不同的参数生成不同的对象</p>
                 <p>缺点在于：新增一个产品类的时候需要修改工厂方法</p>
             <li>工厂方法</li>
-                <img src="img/FactoryMethod.jpg" height="501" width="660" alt="">
+                <img src="./img/FactoryMethod.jpg" height="501" width="660" alt="">
                 <p>与普通工厂不同的是为每一个产品创建了一个工厂，每个产品都对应这一个产品工厂</p>
             <li>抽象工厂模式</li>
-                <img src="" alt="img/AbstractFactory.jpg">
+                <img src="" alt="./img/AbstractFactory.jpg" height="501" width="660" alt="">
                 <p>为创建一组相关或相互依赖的对象提供一个接口，而且无需指定它们的具体类。</p>
                 <p>确定无法创建，新的产品类</p>
         </ul>
