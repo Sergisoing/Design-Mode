@@ -17,7 +17,7 @@ php设计模式学习
                 <img src="./img/FactoryMethod.jpg" height="501" width="660" alt="">
                 <p>与普通工厂不同的是为每一个产品创建了一个工厂，每个产品都对应这一个产品工厂</p>
             <li>抽象工厂模式</li>
-                <img src="" alt="./img/AbstractFactory.jpg" height="501" width="660" alt="">
+                <img src="./img/AbstractFactory.jpg" height="501" width="660" alt="">
                 <p>为创建一组相关或相互依赖的对象提供一个接口，而且无需指定它们的具体类。</p>
                 <p>确定无法创建，新的产品类</p>
         </ul>
